@@ -1,0 +1,111 @@
+Enter 1 to add a user 
+             2 to search for details 
+             3 to remove the user 
+             4 to edit details 
+             5 to display
+enter name
+enter surname
+enter email
+enter phone
+Successfully added the user!
+enter 1 to continue 0 to exit
+Enter 1 to add a user 
+             2 to search for details 
+             3 to remove the user 
+             4 to edit details 
+             5 to display
+enter name
+enter surname
+enter email
+enter phone
+Successfully added the user!
+enter 1 to continue 0 to exit
+Enter 1 to add a user 
+             2 to search for details 
+             3 to remove the user 
+             4 to edit details 
+             5 to display
+enter name
+enter surname
+enter email
+enter phone
+Successfully added the user!
+enter 1 to continue 0 to exit
+Enter 1 to add a user 
+             2 to search for details 
+             3 to remove the user 
+             4 to edit details 
+             5 to display
+enter name
+enter surname
+enter email
+enter phone
+Successfully added the user!
+enter 1 to continue 0 to exit
+Enter 1 to add a user 
+             2 to search for details 
+             3 to remove the user 
+             4 to edit details 
+             5 to display
+ram
+krishna
+ram@gmail.com
+9999922229
+
+
+suma
+m
+suma@gmail.com
+6666663384
+
+
+seeta
+k
+kseeta@gmail.com
+4444449987
+
+
+geeta
+p
+pgeeta@gmail.com
+6667800437
+
+
+enter 1 to continue 0 to exit
+Enter 1 to add a user 
+             2 to search for details 
+             3 to remove the user 
+             4 to edit details 
+             5 to display
+enter the name:
+DETAILS ARE
+NAME:ram
+SURNAME:krishna
+EMAIL:ram@gmail.com
+PHONE:9999922229
+enter 1 to continue 0 to exit
+Enter 1 to add a user 
+             2 to search for details 
+             3 to remove the user 
+             4 to edit details 
+             5 to display
+enter the name:
+Removed the user.
+enter 1 to continue 0 to exit
+Enter 1 to add a user 
+             2 to search for details 
+             3 to remove the user 
+             4 to edit details 
+             5 to display
+enter the name of user whoose details are to be edited
+DETAILS ARE
+NAME:suma
+SURNAME:m
+EMAIL:suma@gmail.com
+PHONE:6666663384
+change name? enter y/n
+change surname? enter y/n
+change email? enter y/n
+enter email
+change phone number? enter y/n
+enter 1 to continue 0 to exit
